@@ -1,4 +1,4 @@
-title:Broner's God Rolls
+title:Broner's Besties
 description:Broner's god roll weapons for pve and pvp
 
 // Riiswalker - Riiswalker  (pvp)
@@ -17,12 +17,13 @@ dimwishlist:item=108221785&perks=1332244541,1087426260,1866048759,591790007#note
 
 
 // Ignition Code - Ignition Code GM NF (god-pve,pve)
-dimwishlist:item=304659313&perks=1441682018,3032599245,3161816588,960810156#notes:Broner's God Rolls, PvE GM
-dimwishlist:item=304659313&perks=1441682018,3032599245,2010801679,960810156#notes:Broner's God Rolls, PvE GM
-dimwishlist:item=304659313&perks=1478423395,3032599245,3161816588,960810156#notes:Broner's God Rolls, PvE GM
-dimwishlist:item=304659313&perks=1478423395,3032599245,2010801679,960810156#notes:Broner's God Rolls, PvE GM
-dimwishlist:item=304659313&perks=1844523823,3032599245,3161816588,960810156#notes:Broner's God Rolls, PvE GM
-dimwishlist:item=304659313&perks=1844523823,3032599245,2010801679,960810156#notes:Broner's God Rolls, PvE GM
+//notes:Broner's Besties, PvE GM pick.|tags:god-pve,pve
+dimwishlist:item=304659313&perks=1441682018,3032599245,3161816588,960810156
+dimwishlist:item=304659313&perks=1441682018,3032599245,2010801679,960810156
+dimwishlist:item=304659313&perks=1478423395,3032599245,3161816588,960810156
+dimwishlist:item=304659313&perks=1478423395,3032599245,2010801679,960810156
+dimwishlist:item=304659313&perks=1844523823,3032599245,3161816588,960810156
+dimwishlist:item=304659313&perks=1844523823,3032599245,2010801679,960810156
 
 
 // Ignition Code - Ignition Code Boss (god-pve,pve)
@@ -41,12 +42,13 @@ dimwishlist:item=304659313&perks=3798852852,3301904089,2869569095,1546637391#not
 
 
 // Gnawing Hunger - Gnawing Hunger PvP (god-pvp,pvp,mnk)
-dimwishlist:item=821154603&perks=3250034553,4134353779,2387244414,1015611457#notes:Broner's God Rolls, PvP
-dimwishlist:item=821154603&perks=3250034553,4134353779,1890422124,1015611457#notes:Broner's God Rolls, PvP
-dimwishlist:item=821154603&perks=1482024992,4134353779,2387244414,1015611457#notes:Broner's God Rolls, PvP
-dimwishlist:item=821154603&perks=1482024992,4134353779,1890422124,1015611457#notes:Broner's God Rolls, PvP
-dimwishlist:item=821154603&perks=202670084,4134353779,2387244414,1015611457#notes:Broner's God Rolls, PvP
-dimwishlist:item=821154603&perks=202670084,4134353779,1890422124,1015611457#notes:Broner's God Rolls, PvP
+//notes:Broner's Besties, PvP pick.|tags:god-pvp,pvp,mnk
+dimwishlist:item=821154603&perks=3250034553,4134353779,2387244414,1015611457
+dimwishlist:item=821154603&perks=3250034553,4134353779,1890422124,1015611457
+dimwishlist:item=821154603&perks=1482024992,4134353779,2387244414,1015611457
+dimwishlist:item=821154603&perks=1482024992,4134353779,1890422124,1015611457
+dimwishlist:item=821154603&perks=202670084,4134353779,2387244414,1015611457
+dimwishlist:item=821154603&perks=202670084,4134353779,1890422124,1015611457
 
 
 // Gnawing Hunger - Gnawing Hunger PvE (mnk,god-pve,pve)
