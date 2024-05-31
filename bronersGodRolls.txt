@@ -1,8 +1,26 @@
-title:Broner's Besties
-description:Broner's god roll weapons for pve and pvp
+title:Broner's Wishlist
+description:Broner's favorite weapon rolls
+
+//notes: BLAST FURNACE PvE. tags:pve
+dimwishlist:item=2372514508&perks=1392496348,106909392,3891536761,4104185692
+
+//notes: SEVENTH SERAPH CARBINE PvE. tags:pve
+dimwishlist:item=4070357005&perks=202670084,3230963543,1523832109,4104185692
+
+//notes: ZAOULI'S BANE (HARROWED) PvE. tags:pve
+dimwishlist:item=291092617&perks=3661387068,1431678320,3038247973,4293542123
+
+//notes: INDEBTED KINDNESS PvE. tags:pve
+dimwishlist:item=3381450498&perks=1478423395,3230963543,1556840489,2173046394
+
+//notes: CATAPHRACT GL3 PvE. tags:pve
+dimwishlist:item=2738601016&perks=981914802,332133599,968510818,3194351027,2839173408
+
+//notes: HAMMERHEAD PvE. tags:pve
+dimwishlist:item=1896309757&perks=4090651448,2420895100,968510818,557221067
 
 // Riiswalker - Riiswalker  (pvp,god-pvp)
-//notes: Broner's Besties, PvP pick. tags:pvp,god-pvp
+//notes: Broner's Wishlist, PvP pick. tags:pvp,god-pvp
 dimwishlist:item=108221785&perks=1047830412,791862061,2039302152,591790007
 dimwishlist:item=108221785&perks=1047830412,791862061,706527188,591790007
 dimwishlist:item=108221785&perks=1047830412,791862061,1866048759,591790007
@@ -18,7 +36,7 @@ dimwishlist:item=108221785&perks=1332244541,1087426260,1866048759,591790007
 
 
 // Ignition Code - Ignition Code GM NF (god-pve,pve)
-//notes: Broner's Besties, PvE GM NF pick tags:god-pve,pve
+//notes: Broner's Wishlist, PvE GM NF pick tags:god-pve,pve
 dimwishlist:item=304659313&perks=1441682018,3032599245,3161816588,1546637391
 dimwishlist:item=304659313&perks=1441682018,3032599245,3161816588,4049631843
 dimwishlist:item=304659313&perks=1441682018,3032599245,2010801679,1546637391
@@ -34,7 +52,7 @@ dimwishlist:item=304659313&perks=1844523823,3032599245,2010801679,4049631843
 
 
 // Ignition Code - Ignition Code Boss (god-pve,pve)
-//notes: Broner's Besties, PvE for DMG tags:god-pve,pve
+//notes: Broner's Wishlist, PvE for DMG tags:god-pve,pve
 dimwishlist:item=304659313&perks=1441682018,3301904089,3161816588,1546637391
 dimwishlist:item=304659313&perks=1441682018,3301904089,2010801679,1546637391
 dimwishlist:item=304659313&perks=981914802,3301904089,3161816588,1546637391
@@ -46,7 +64,7 @@ dimwishlist:item=304659313&perks=3798852852,3301904089,2010801679,1546637391
 
 
 // PLUG ONE.1 (Adept) - Plug 1 adept (god-pve,pve)
-//notes: Broner's Besties, PvE, range is capped, stability slapps! tags:god-pve,pve
+//notes: Broner's Wishlist, PvE, range is capped, stability slapps! tags:god-pve,pve
 dimwishlist:item=534775659&perks=4090651448,3868766766,2779035018,1799762209
 dimwishlist:item=534775659&perks=4090651448,3868766766,2779035018,1427256713
 dimwishlist:item=534775659&perks=4090651448,3868766766,2779035018,2726471870
@@ -65,7 +83,7 @@ dimwishlist:item=534775659&perks=1482024992,3868766766,2779035018,2726471870
 
 
 // PLUG ONE.1 (Adept) - Plug 1 adeptpvp (god-pvp,pvp)
-//notes: Broner's Besties, PvP, range is capped, stability slapps! tags:god-pvp,pvp
+//notes: Broner's Wishlist, PvP, range is capped, stability slapps! tags:god-pvp,pvp
 dimwishlist:item=534775659&perks=4090651448,3868766766,1570042021,1799762209
 dimwishlist:item=534775659&perks=4090651448,3868766766,1570042021,1754714824
 dimwishlist:item=534775659&perks=4090651448,3868766766,1645158859,1799762209
@@ -89,7 +107,7 @@ dimwishlist:item=534775659&perks=1482024992,3868766766,1645158859,1754714824
 
 
 // Hung Jury SR4 (Adept) - Hung Jury PvE GM (god-pve,pve)
-//notes: Broner's Besties, PvE GM, explosive > firefly tags:god-pve,pve
+//notes: Broner's Wishlist, PvE GM, explosive > firefly tags:god-pve,pve
 dimwishlist:item=681067419&perks=1467527085,1431678320,247725512,3038247973
 dimwishlist:item=681067419&perks=1467527085,1431678320,247725512,3824105627
 dimwishlist:item=681067419&perks=1467527085,1087426260,247725512,3038247973
@@ -165,7 +183,7 @@ dimwishlist:item=681067419&perks=1482024992,3230963543,247725512,3824105627
 
 
 // Hung Jury SR4 (Adept) - Hung Jury PvP (god-pvp,pvp)
-//notes: Broner's Besties, PvP tags:god-pvp,pvp
+//notes: Broner's Wishlist, PvP tags:god-pvp,pvp
 dimwishlist:item=681067419&perks=1467527085,1431678320,247725512,2551157718
 dimwishlist:item=681067419&perks=1467527085,1431678320,247725512,2213355989
 dimwishlist:item=681067419&perks=1467527085,1087426260,247725512,2551157718
@@ -277,7 +295,7 @@ dimwishlist:item=681067419&perks=1482024992,3177308360,247725512,2213355989
 
 
 // Gnawing Hunger - Gnawing Hunger PvP (god-pvp,pvp,mnk)
-//notes: Broner's Besties, PvP tags:god-pvp,pvp,mnk
+//notes: Broner's Wishlist, PvP tags:god-pvp,pvp,mnk
 dimwishlist:item=821154603&perks=3250034553,4134353779,2387244414,1015611457
 dimwishlist:item=821154603&perks=3250034553,4134353779,1890422124,1015611457
 dimwishlist:item=821154603&perks=1482024992,4134353779,2387244414,1015611457
@@ -287,7 +305,7 @@ dimwishlist:item=821154603&perks=202670084,4134353779,1890422124,1015611457
 
 
 // Gnawing Hunger - Gnawing Hunger PvE (mnk,god-pve,pve)
-//notes: Broner's Besties, PvE tags:mnk,god-pve,pve
+//notes: Broner's Wishlist, PvE tags:mnk,god-pve,pve
 dimwishlist:item=821154603&perks=3250034553,4134353779,1820235745,3425386926
 dimwishlist:item=821154603&perks=3250034553,4134353779,1820235745,3523296417
 dimwishlist:item=821154603&perks=3250034553,4134353779,1820235745,4082225868
@@ -381,7 +399,7 @@ dimwishlist:item=821154603&perks=202670084,3230963543,3643424744,4082225868
 
 
 // Chroma Rush - Chroma Rush PvP (god-pvp,pvp)
-//notes: Broner's Besties, PvP tags:god-pvp,pvp
+//notes: Broner's Wishlist, PvP tags:god-pvp,pvp
 dimwishlist:item=1119734784&perks=3250034553,3230963543,2946784966,1015611457
 dimwishlist:item=1119734784&perks=3250034553,2420895100,2946784966,1015611457
 dimwishlist:item=1119734784&perks=3250034553,3142289711,2946784966,1015611457
@@ -420,7 +438,7 @@ dimwishlist:item=1119734784&perks=4090651448,3177308360,2946784966,1015611457
 
 
 // Chroma Rush - Chroma Rush PvE (god-pve,pve)
-//notes: Broner's Besties, PvE tags:god-pve,pve
+//notes: Broner's Wishlist, PvE tags:god-pve,pve
 dimwishlist:item=1119734784&perks=3661387068,3142289711,1820235745,3425386926
 dimwishlist:item=1119734784&perks=3661387068,1087426260,1820235745,3425386926
 dimwishlist:item=1119734784&perks=3661387068,106909392,1820235745,3425386926
@@ -445,7 +463,7 @@ dimwishlist:item=1119734784&perks=3250034553,3177308360,1820235745,3425386926
 
 
 // PLUG ONE.1 - Plug 1 PvE (god-pve,pve)
-//notes: Broner's Besties, PvE, range is capped, stability slapps! tags:god-pve,pve
+//notes: Broner's Wishlist, PvE, range is capped, stability slapps! tags:god-pve,pve
 dimwishlist:item=1289000550&perks=4090651448,3868766766,2779035018,1799762209
 dimwishlist:item=1289000550&perks=4090651448,3868766766,2779035018,1427256713
 dimwishlist:item=1289000550&perks=4090651448,3868766766,2779035018,2726471870
@@ -464,7 +482,7 @@ dimwishlist:item=1289000550&perks=1482024992,3868766766,2779035018,2726471870
 
 
 // PLUG ONE.1 - Plug 1 PvP (god-pvp,pvp)
-//notes: Broner's Besties, PvP, range is capped, stability slapps! tags:god-pvp,pvp
+//notes: Broner's Wishlist, PvP, range is capped, stability slapps! tags:god-pvp,pvp
 dimwishlist:item=1289000550&perks=4090651448,3868766766,1570042021,1799762209
 dimwishlist:item=1289000550&perks=4090651448,3868766766,1570042021,1754714824
 dimwishlist:item=1289000550&perks=4090651448,3868766766,1645158859,1799762209
@@ -488,7 +506,7 @@ dimwishlist:item=1289000550&perks=1482024992,3868766766,1645158859,1754714824
 
 
 // Gridskipper - Gridskipper PvE (god-pve,pve)
-//notes: Broner's Besties, PvE tags:god-pve,pve
+//notes: Broner's Wishlist, PvE tags:god-pve,pve
 dimwishlist:item=1621558458&perks=1467527085,2420895100,1570042021,2458213969
 dimwishlist:item=1621558458&perks=1467527085,2420895100,1570042021,4104185692
 dimwishlist:item=1621558458&perks=1467527085,2420895100,2946784966,2458213969
@@ -1068,7 +1086,7 @@ dimwishlist:item=1621558458&perks=3250034553,679225683,2039302152,4104185692
 
 
 // Gridskipper - Gridskipper PvP (god-pvp,pvp,mnk)
-//notes: Broner's Besties, PvP tags:god-pvp,pvp,mnk
+//notes: Broner's Wishlist, PvP tags:god-pvp,pvp,mnk
 dimwishlist:item=1621558458&perks=1467527085,1885400500,2946784966,2458213969
 dimwishlist:item=1621558458&perks=1467527085,1885400500,2450788523,2458213969
 dimwishlist:item=1621558458&perks=1467527085,1885400500,588594999,2458213969
@@ -1168,7 +1186,7 @@ dimwishlist:item=1621558458&perks=3250034553,679225683,588594999,2458213969
 
 
 // Shadow Price (Adept) - Shadow Price PvE (god-pve,pve)
-//notes: Broner's Besties, PvE tags:god-pve,pve
+//notes: Broner's Wishlist, PvE tags:god-pve,pve
 dimwishlist:item=2147010335&perks=1482024992,3142289711,1354429876,1683379515
 dimwishlist:item=2147010335&perks=1482024992,3142289711,1354429876,4082225868
 dimwishlist:item=2147010335&perks=1482024992,3142289711,1354429876,4049631843
@@ -1388,7 +1406,7 @@ dimwishlist:item=2147010335&perks=3250034553,3230963543,2779035018,4049631843
 
 
 // Shadow Price (Adept) - Shadow Price PvP (pvp,god-pvp,mnk)
-//notes: Broner's Besties, PvP tags:pvp,god-pvp,mnk
+//notes: Broner's Wishlist, PvP tags:pvp,god-pvp,mnk
 dimwishlist:item=2147010335&perks=1482024992,3142289711,2779035018,4082225868
 dimwishlist:item=2147010335&perks=1482024992,3142289711,2450788523,4082225868
 dimwishlist:item=2147010335&perks=1482024992,3142289711,1354429876,4082225868
@@ -1488,7 +1506,7 @@ dimwishlist:item=2147010335&perks=3250034553,3230963543,3643424744,4082225868
 
 
 // Fatebringer - Fatebringer GM (god-pve,mnk)
-//notes: Broner's Besties, PvE GM tags:god-pve,mnk
+//notes: Broner's Wishlist, PvE GM tags:god-pve,mnk
 dimwishlist:item=2171478765&perks=1482024992,1087426260,3038247973,3824105627
 dimwishlist:item=2171478765&perks=1482024992,2420895100,3038247973,3824105627
 dimwishlist:item=2171478765&perks=1482024992,106909392,3038247973,3824105627
@@ -1510,7 +1528,7 @@ dimwishlist:item=2171478765&perks=202670084,3142289711,3038247973,3824105627
 
 
 // Fatebringer - Fatebringer PvP (god-pvp,pvp)
-//notes: Broner's Besties, PvP tags:god-pvp,pvp
+//notes: Broner's Wishlist, PvP tags:god-pvp,pvp
 dimwishlist:item=2171478765&perks=1482024992,3142289711,2450788523,1015611457
 dimwishlist:item=2171478765&perks=1482024992,3142289711,2946784966,1015611457
 dimwishlist:item=2171478765&perks=1482024992,106909392,2450788523,1015611457
@@ -1530,7 +1548,7 @@ dimwishlist:item=2171478765&perks=202670084,106909392,2946784966,1015611457
 
 
 // Fatebringer - Fatebringer PvE (pve,mnk)
-//notes: Broner's Besties, PvE general use tags:pve,mnk
+//notes: Broner's Wishlist, PvE general use tags:pve,mnk
 dimwishlist:item=2171478765&perks=1482024992,1087426260,3418782618,4104185692
 dimwishlist:item=2171478765&perks=1482024992,1087426260,3418782618,3824105627
 dimwishlist:item=2171478765&perks=1482024992,2420895100,3418782618,4104185692
@@ -1570,7 +1588,7 @@ dimwishlist:item=2171478765&perks=202670084,3142289711,3418782618,3824105627
 
 
 // Succession - Succession  (god-pve,pve)
-//notes: Broner's Besties, PvE tags:god-pve,pve
+//notes: Broner's Wishlist, PvE tags:god-pve,pve
 dimwishlist:item=2990047042&perks=1840239774,3142289711,1523832109,1546637391
 dimwishlist:item=2990047042&perks=1840239774,3142289711,1523832109,469285294
 dimwishlist:item=2990047042&perks=1840239774,106909392,1523832109,1546637391
@@ -1606,7 +1624,7 @@ dimwishlist:item=2990047042&perks=4090651448,2420895100,1523832109,469285294
 
 
 // Seventh Seraph Officer Revolver - Seventh Seraph Revolver (pve,god-pve)
-//notes: Broner's Besties, PvE tags:pve,god-pve
+//notes: Broner's Wishlist, PvE tags:pve,god-pve
 dimwishlist:item=3037520408&perks=202670084,4134353779,1354429876,1954620775
 dimwishlist:item=3037520408&perks=202670084,4134353779,4071163871,1954620775
 dimwishlist:item=3037520408&perks=3250034553,4134353779,1354429876,1954620775
@@ -1616,7 +1634,7 @@ dimwishlist:item=3037520408&perks=1482024992,4134353779,4071163871,1954620775
 
 
 // The Time-Worn Spire - Time-worn PvE (god-pve,pve)
-//notes: Broner's Besties, PvE tags:god-pve,pve
+//notes: Broner's Wishlist, PvE tags:god-pve,pve
 dimwishlist:item=3593598010&perks=13792278,2420895100,1820235745,1546637391
 dimwishlist:item=3593598010&perks=13792278,2420895100,1820235745,3425386926
 dimwishlist:item=3593598010&perks=13792278,106909392,1820235745,1546637391
@@ -1644,7 +1662,7 @@ dimwishlist:item=3593598010&perks=13792279,3230963543,1820235745,3425386926
 
 
 // The Time-Worn Spire - Time-worn PvP (pvp,god-pvp)
-//notes: Broner's Besties, PvP tags:pvp,god-pvp
+//notes: Broner's Wishlist, PvP tags:pvp,god-pvp
 dimwishlist:item=3593598010&perks=2405638015,1561002382,1645158859,591790007
 dimwishlist:item=3593598010&perks=2405638015,1561002382,1645158859,3425386926
 dimwishlist:item=3593598010&perks=2405638015,1561002382,1645158859,11551321
@@ -1684,7 +1702,7 @@ dimwishlist:item=3593598010&perks=2405638014,3230963543,588594999,11551321
 
 
 // The Messenger - Messenger (god-pve,pve,pvp,god-pvp)
-//notes: Broner's Besties, PvE, PvP tags:god-pve,pve,pvp,god-pvp
+//notes: Broner's Wishlist, PvE, PvP tags:god-pve,pve,pvp,god-pvp
 dimwishlist:item=3658188704&perks=839105230,1968497646,247725512,3047969693
 dimwishlist:item=3658188704&perks=839105230,1968497646,1168162263,3047969693
 dimwishlist:item=3658188704&perks=839105230,1885400500,247725512,3047969693
@@ -1758,7 +1776,7 @@ dimwishlist:item=3658188704&perks=1392496348,679225683,1168162263,3047969693
 
 
 // Shayura's Wrath - Shayura's Wrath PvP (god-pvp,pvp,mnk)
-//notes: Broner's Besties, PvP tags:god-pvp,pvp,mnk
+//notes: Broner's Wishlist, PvP tags:god-pvp,pvp,mnk
 dimwishlist:item=3682803680&perks=839105230,3142289711,2946784966,1015611457
 dimwishlist:item=3682803680&perks=839105230,3142289711,2450788523,1015611457
 dimwishlist:item=3682803680&perks=1482024992,3142289711,2946784966,1015611457
@@ -1766,7 +1784,7 @@ dimwishlist:item=3682803680&perks=1482024992,3142289711,2450788523,1015611457
 
 
 // Shayura's Wrath - Shayura's Wrath PvE (god-pve,pve,mnk)
-//notes: Broner's Besties, PvE tags:god-pve,pve,mnk
+//notes: Broner's Wishlist, PvE tags:god-pve,pve,mnk
 dimwishlist:item=3682803680&perks=839105230,3142289711,1570042021,1015611457
 dimwishlist:item=3682803680&perks=839105230,3142289711,1570042021,11612903
 dimwishlist:item=3682803680&perks=839105230,1087426260,1570042021,1015611457
@@ -1798,7 +1816,7 @@ dimwishlist:item=3682803680&perks=1482024992,3230963543,1570042021,11612903
 
 
 // Shayura's Wrath (Adept) - Shayura's Wrath PvP (god-pvp,pvp,mnk)
-//notes: Broner's Besties, PvP tags:god-pvp,pvp,mnk
+//notes: Broner's Wishlist, PvP tags:god-pvp,pvp,mnk
 dimwishlist:item=4023807721&perks=1482024992,3142289711,2946784966,1015611457
 dimwishlist:item=4023807721&perks=1482024992,3230963543,2946784966,1015611457
 dimwishlist:item=4023807721&perks=839105230,3142289711,2946784966,1015611457
@@ -1806,7 +1824,7 @@ dimwishlist:item=4023807721&perks=839105230,3230963543,2946784966,1015611457
 
 
 // Shayura's Wrath (Adept) - Shayura's Wrath PvE (mnk,pve,god-pve)
-//notes: Broner's Besties, PvE tags:mnk,pve,god-pve
+//notes: Broner's Wishlist, PvE tags:mnk,pve,god-pve
 dimwishlist:item=4023807721&perks=1482024992,3230963543,1570042021,1015611457
 dimwishlist:item=4023807721&perks=1482024992,3230963543,1570042021,11612903
 dimwishlist:item=4023807721&perks=1482024992,3142289711,1570042021,1015611457
@@ -1838,7 +1856,7 @@ dimwishlist:item=4023807721&perks=839105230,1431678320,1570042021,11612903
 
 
 // Heritage - Heritage (god-pve,pve)
-//notes: Broner's Besties, PvE tags:god-pve,pve
+//notes: Broner's Wishlist, PvE tags:god-pve,pve
 dimwishlist:item=4248569242&perks=4090651448,3142289711,3300816228,469285294
 dimwishlist:item=4248569242&perks=4090651448,3142289711,1523832109,469285294
 dimwishlist:item=4248569242&perks=4090651448,791862061,3300816228,469285294
@@ -1890,7 +1908,7 @@ dimwishlist:item=4248569242&perks=1482024992,2420895100,1523832109,469285294
 
 
 // Hung Jury SR4 - Hung Jury PvE (god-pve,pve)
-//notes: Broner's Besties, PvE GM, explosive > firefly tags:god-pve,pve
+//notes: Broner's Wishlist, PvE GM, explosive > firefly tags:god-pve,pve
 dimwishlist:item=4281371574&perks=839105230,1087426260,247725512,3038247973
 dimwishlist:item=4281371574&perks=839105230,1087426260,247725512,3824105627
 dimwishlist:item=4281371574&perks=839105230,106909392,247725512,3038247973
@@ -1958,7 +1976,7 @@ dimwishlist:item=4281371574&perks=1482024992,3230963543,247725512,3824105627
 
 
 // Hung Jury SR4 - Hung Jury PvP (god-pvp,pvp)
-//notes: Broner's Besties, PvP breh tags:god-pvp,pvp
+//notes: Broner's Wishlist, PvP breh tags:god-pvp,pvp
 dimwishlist:item=4281371574&perks=839105230,3142289711,247725512,3038247973
 dimwishlist:item=4281371574&perks=839105230,3142289711,247725512,2551157718
 dimwishlist:item=4281371574&perks=839105230,3142289711,588594999,3038247973
